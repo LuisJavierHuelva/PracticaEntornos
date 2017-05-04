@@ -19,7 +19,7 @@ namespace Git_Ex1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Saludos desde ¡Hola Mundo!");
+            MessageBox.Show("Saludos desde huelva","",MessageBoxButtons.OK,MessageBoxIcon.Asterisk);
 			
 			// Modificación en 2015
 			
